@@ -5,7 +5,7 @@
 !["CoFi Logo"](./logo-cofi.png "CoFi Logo"){: height="100px"}
 {:refdef}
 
-[Components][] • [MVP][] • [Documentation][] • [Releases][] • [Chat][] • [Contribute][]
+[Components][] • [Documentation][] • [Releases][] • [Chat][] • [Contribute][]
 {: style="font-size: 1.2em; text-align: center;"}
 
 CoFi is meant as common good intangible (software -> text) infrastructure which aims at becoming the go-to library which people and communities anywhere can access, edit and improve, remix, redistribute to design first, deploy and maintain/grow financial primitives for the benefit of their respective economic networks. Hello
@@ -59,7 +59,7 @@ Related reports and publications can be found at the
 
 [Chat]: https://informal-systems.zulipchat.com/#narrow/stream/265309-apalache
 [Contribute]: https://github.com/informalsystems/apalache/blob/unstable/CONTRIBUTING.md
-[Features]: ./docs/apalache/features.html
+[Components]: ./docs/apalache/features.html
 [Installation]: ./docs/apalache/installation/index.html
 [Leslie Lamport's page on TLA+]: http://lamport.azurewebsites.net/tla/tla.html
 [Manual]: ./docs
