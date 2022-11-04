@@ -75,7 +75,7 @@ Academic papers on the theory and practice behind CoFi:
 
 [Solving Liquidity Issues for SME's Through Mutual Credit Systems such as Sardex](https://wiki.p2pfoundation.net/Solving_Liquidity_Issues_for_SME%27s_Through_Mutual_Credit_Systems_such_as_Sardex), Wiki entry on https://wiki.p2pfoundation.net/
 
-[Community Clearing and Settling of Obligations],(https://www.academia.edu/48690578/Community_Clearing_and_Settling_of_Obligations), Posted on Academia on April 2021 by Hans-Florian Hoyer
+[Community Clearing and Settling of Obligations](https://www.academia.edu/48690578/Community_Clearing_and_Settling_of_Obligations), Posted on Academia on April 2021 by Hans-Florian Hoyer
 
 [Local Money and Liquidity Saving](https://ebuchman.github.io/posts/local-money-liquidity-saving/), Posted on May 2021 by Ethan Buchman
 
