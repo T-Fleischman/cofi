@@ -8,7 +8,7 @@
 [Components][] • [Documentation][] • [Releases][] • [Chat][] • [Contribute][]
 {: style="font-size: 1.2em; text-align: center;"}
 
-CoFi is meant as common good intangible (software -> text) infrastructure which aims at becoming the go-to library which people and communities anywhere can access, edit and improve, remix, redistribute to design first, deploy and maintain/grow financial primitives for the benefit of their respective economic networks.
+Collaborative Finance (CoFi) is a set of monetary and financiel instruments that tap into the value created by economic communities through a balance of  collaboration and market competition in the real economy. On GitHub, it is an intangible common good infrastructure which aims to become the go-to library for people and communities anywhere to access, edit, improve, remix, redistribute, deploy, and maintain to create and implement financial primitives for the benefit of their economic networks.
 
 
 <!-- 
