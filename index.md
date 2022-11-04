@@ -2,22 +2,18 @@
 
 <!-- For refdef, see see https://stackoverflow.com/a/31712482/1187277 -->
 {:refdef: style="text-align: center;"}
-!["Apalache Logo"](./logo-apalache.png "Apalache Logo"){: height="100px"}
+!["CoFi Logo"](./logo-cofi.png "CoFi Logo"){: height="100px"}
 {:refdef}
 
-[Features][] • [Installation][] • [Manual][] • [Releases][] • [Chat][] • [Contribute][]
+<!-- 
+[Components][] • [Documentation][] • [Releases][] • [Chat][] • [Contribute][]
 {: style="font-size: 1.2em; text-align: center;"}
+-->
 
-Apalache translates [TLA+][] into the logic supported by SMT solvers such as
-[Microsoft Z3][]. Apalache can check [inductive invariants][] (for fixed or
-bounded parameters) and check safety of bounded executions ([bounded model
-checking][]). To see the list of supported TLA+ constructs, check the supported
-features. In general, Apalache runs under the same assumptions as [TLC][].
+Collaborative Finance (CoFi) is a set of monetary and financiel instruments that tap into the value created by economic communities through a balance of  collaboration and market competition in the real economy. On GitHub, it is an intangible common good infrastructure which aims to become the go-to library for people and communities anywhere to access, edit, improve, remix, redistribute, deploy, and maintain to create and implement financial primitives for the benefit of their economic networks.
 
-To learn more about TLA+, visit [Leslie Lamport's page on TLA+][] and see his
-[video course][]. Also, check out [TLA+ language manual for
-engineers](https://apalache.informal.systems/docs/lang/index.html).
 
+<!-- 
 ## Tutorials
 
 - [Type checking TLA+ with Snowcat](https://apalache.informal.systems/docs/tutorials/snowcat-tutorial.html)
@@ -51,21 +47,51 @@ engineers](https://apalache.informal.systems/docs/lang/index.html).
   OOPSLA 2019 (October 2019).
 
 - [Bounded model checking of TLA+ specifications with SMT](https://www.youtube.com/watch?v=Xl1--arESl8)
-  TLA+ Community Event 2018 (July 2018).
+  TLA+ Community Event 2018 (July 2018). -->
 
 ## Academic papers
 
-To read an academic paper about the theory behind Apalache,
-check our [paper at OOPSLA19](https://dl.acm.org/doi/10.1145/3360549).
-Related reports and publications can be found at the
-[Apalache page at TU Wien](http://forsyte.at/research/apalache/).
+Academic papers on the theory and practice behind CoFi:
 
+[Multilateral Trade Credit Set-off](https://www.mdpi.com/1911-8074/13/12/295)
+
+[Mathematics behind MTCS](https://www.mdpi.com/1911-8074/14/9/452)
+
+[Political theory view of mutual credit](https://www.tandfonline.com/doi/full/10.1080/23311886.2019.1646625)
+
+[Sociological view of mutual credit](http://eprints.lse.ac.uk/67135/)
+
+[Original Sardex paper](https://ijccr.files.wordpress.com/2017/02/littera-et-al.pdf)
+
+## Blog posts on Liquidity-Saving
+
+[Someone Just Turned The Lights On](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on), Posted On February 18, 2021 By Dil Green
+
+[‘Complementary’ Economics Won’t Do It](https://www.mutualcredit.services/blog/complementary-economics-won-t-do-it), Posted On February 10, 2021 By Dil Green
+
+[Incredible new research: how small businesses can be saved post-Covid](https://www.lowimpact.org/posts/incredible-new-research-how-to-save-small-businesses-post-covid), Posted On March 7, 2021 by Dave Darby of Lowimpact.org
+
+[Recycling Debt (Kusaga Deni, Kubali Sarafu)](https://www.grassrootseconomics.org/recycling-debt), Posted on March 13, 2021 by Isavary Khabuqw of grassrootseconomics.org
+
+[Solving Liquidity Issues for SME's Through Mutual Credit Systems such as Sardex](https://wiki.p2pfoundation.net/Solving_Liquidity_Issues_for_SME%27s_Through_Mutual_Credit_Systems_such_as_Sardex), Wiki entry on https://wiki.p2pfoundation.net/
+
+[Community Clearing and Settling of Obligations],(https://www.academia.edu/48690578/Community_Clearing_and_Settling_of_Obligations), Posted on Academia on April 2021 by Hans-Florian Hoyer
+
+[Local Money and Liquidity Saving](https://ebuchman.github.io/posts/local-money-liquidity-saving/), Posted on May 2021 by Ethan Buchman
+
+[Forschungs-Journal veröffentlicht 10 Artikel zur Währungsvielfalt](https://monneta.org/news/sonderausgabe-forschung/), Posted on December 10, 2021 by Leander Bindewald of monneta.org
+
+[The Velocity of Money](https://ebuchman.github.io/posts/velocity/), Posted on January 2022 by Ethan Buchman
+
+[The Kolektivo Framework, Decentralized Exchange Trading Systems](https://assets.website-files.com/5fcaa3a6fcb269f7778d1f87/62ff8ec517eb474d38236ae8_The%20Kolektivo%20Framework%20Whitepaper%20v.3.pdf), Curve Labs & Kolektivo Labs, Original: June 2021, Last updated: August 2022 (v.3)
+
+[The Properties of Money](https://ebuchman.github.io/posts/properties-of-money/), Posted on October 2022 by Ethan Buchman
 
 <!-- LINKS -->
 
 [Chat]: https://informal-systems.zulipchat.com/#narrow/stream/265309-apalache
 [Contribute]: https://github.com/informalsystems/apalache/blob/unstable/CONTRIBUTING.md
-[Features]: ./docs/apalache/features.html
+[Components]: ./docs/apalache/features.html
 [Installation]: ./docs/apalache/installation/index.html
 [Leslie Lamport's page on TLA+]: http://lamport.azurewebsites.net/tla/tla.html
 [Manual]: ./docs
