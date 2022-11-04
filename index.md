@@ -5,18 +5,18 @@
 !["CoFi Logo"](./logo-cofi.png "CoFi Logo"){: height="100px"}
 {:refdef}
 
-[Features][] • [Installation][] • [Manual][] • [Releases][] • [Chat][] • [Contribute][]
+<!-- [Features][] • [Installation][] • [Manual][] • [Releases][] • [Chat][] • [Contribute][] -->
 {: style="font-size: 1.2em; text-align: center;"}
 
 CoFi is meant as common good intangible (software -> text) infrastructure which aims at becoming the go-to library which people and communities anywhere can access, edit and improve, remix, redistribute to design first, deploy and maintain/grow financial primitives for the benefit of their respective economic networks. Hello
-
+<!-- 
 ## Tutorials
 
 - [Type checking TLA+ with Snowcat](https://apalache.informal.systems/docs/tutorials/snowcat-tutorial.html)
 
-- [Extended version of the Apalache tutorial](https://www.youtube.com/watch?v=Ml7d_3vlH88)
+- [Extended version of the Apalache tutorial](https://www.youtube.com/watch?v=Ml7d_3vlH88) -->
 
-## Talks
+<!-- ## Talks
 
 - [Informal Systems Tutorial: TLA+ Basics](https://www.youtube.com/watch?v=peKYddIvCIs)
 
@@ -43,7 +43,7 @@ CoFi is meant as common good intangible (software -> text) infrastructure which 
   OOPSLA 2019 (October 2019).
 
 - [Bounded model checking of TLA+ specifications with SMT](https://www.youtube.com/watch?v=Xl1--arESl8)
-  TLA+ Community Event 2018 (July 2018).
+  TLA+ Community Event 2018 (July 2018). -->
 
 ## Academic papers
 
