@@ -5,7 +5,7 @@
 !["CoFi Logo"](./logo-cofi.png "CoFi Logo"){: height="100px"}
 {:refdef}
 
-[Features][] • [Installation][] • [Manual][] • [Releases][] • [Chat][] • [Contribute][]
+[Components][] • [MVP][] • [Documentation][] • [Releases][] • [Chat][] • [Contribute][]
 {: style="font-size: 1.2em; text-align: center;"}
 
 CoFi is meant as common good intangible (software -> text) infrastructure which aims at becoming the go-to library which people and communities anywhere can access, edit and improve, remix, redistribute to design first, deploy and maintain/grow financial primitives for the benefit of their respective economic networks. Hello
