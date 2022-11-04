@@ -49,10 +49,17 @@ CoFi is meant as common good intangible (software -> text) infrastructure which 
 
 ## Academic papers
 
-Academic papers about the theory behind CoFi:
-[Multilateral Trade Credit Set-off](https://www.mdpi.com/1911-8074/13/12/295).
+Academic papers on the theory and practice behind CoFi:
 
-[Mathematics behind MTCS](https://www.mdpi.com/1911-8074/14/9/452).
+[Multilateral Trade Credit Set-off](https://www.mdpi.com/1911-8074/13/12/295)
+
+[Mathematics behind MTCS](https://www.mdpi.com/1911-8074/14/9/452)
+
+[Political theory view of mutual credit](https://www.tandfonline.com/doi/full/10.1080/23311886.2019.1646625)
+
+[Sociological view of mutual credit](http://eprints.lse.ac.uk/67135/)
+
+[Original Sardex paper](https://ijccr.files.wordpress.com/2017/02/littera-et-al.pdf)
 
 
 <!-- LINKS -->
