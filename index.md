@@ -49,10 +49,10 @@ CoFi is meant as common good intangible (software -> text) infrastructure which 
 
 ## Academic papers
 
-To read an academic paper about the theory behind Apalache,
-check our [paper at OOPSLA19](https://dl.acm.org/doi/10.1145/3360549).
-Related reports and publications can be found at the
-[Apalache page at TU Wien](http://forsyte.at/research/apalache/).
+Academic papers about the theory behind CoFi:
+[Multilateral Trade Credit Set-off](https://www.mdpi.com/1911-8074/13/12/295).
+
+[Mathematics behind MTCS](https://www.mdpi.com/1911-8074/14/9/452).
 
 
 <!-- LINKS -->
